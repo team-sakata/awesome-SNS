@@ -36,7 +36,8 @@ A curated list of awesome resources for **research about SNS**. it includes a lo
 - 
 
 ## Books, Slides and Review papers
-- 
+- [Sentiment Analysis in Social Networks](https://www.sciencedirect.com/book/9780128044124/sentiment-analysis-in-social-networks)
+- [計算社会科学入門](https://www.maruzen-publishing.co.jp/item/?book_no=304030)
 
 ## Researchers
 - 
